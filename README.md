@@ -2,7 +2,7 @@
 
 Выбранная клеточная линия: `HepG2`.
 
-Ссылка на *GoogleColab*: https://colab.research.google.com/drive/1AckR-C3DC6wrR9fcHPOHISEXHj0QIMiH?usp=sharing
+Ссылка на Colab: https://colab.research.google.com/drive/1AckR-C3DC6wrR9fcHPOHISEXHj0QIMiH?usp=sharing
 
 ## Часть 1
 
